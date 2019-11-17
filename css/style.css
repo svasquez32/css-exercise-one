@@ -3,11 +3,11 @@ body {
 }
 
 nav {
-  color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
-  width: 100%;
+  width:100%;
 }
 
 section {
